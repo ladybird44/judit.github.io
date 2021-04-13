@@ -9,24 +9,21 @@ Personal blog built with [Bootstrap](http://getbootstrap.com/), powered by [Jeky
 hosted in [Github pages](https://pages.github.com/).
 
 
-## View the live demo
-
-[Sustain Live Demo](https://jekyller.github.io/sustain)
 
 
 ## Screenshots
 
 **Home page**
-![home page](https://raw.githubusercontent.com/jekyller/sustain/gh-pages/assets/images/screen1.png)
+![home page]()
 
 **Blog page**
-![blog page](https://raw.githubusercontent.com/jekyller/sustain/gh-pages/assets/images/screen2.png)
+![blog page]()
 
 **Post page**
-![post page](https://raw.githubusercontent.com/jekyller/sustain/gh-pages/assets/images/screen3.png)
+![post page]()
 
 **Projects page**
-![project page](https://raw.githubusercontent.com/jekyller/sustain/gh-pages/assets/images/screen4.png)
+![project page]()
 
 
 ## How to use it
@@ -43,17 +40,17 @@ Feel free pull-request your patches and fixes.
 
 #### Contributors
 
-[Sumit Murari](https://github.com/murarisumit), November 2015
+[Ajayi Olabode](), November 2021
 
 
 ## Thanks
 
-Profile picture from [pexels](https://www.pexels.com/photo/portrait-black-african-ethnicity-person-9494/).
+
 
 
 ## Copyright & License
 
-Copyright (C) 2015-2017 - Released under the MIT License.
+Copyright (C) 2015-2021 - Released under the MIT License.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
